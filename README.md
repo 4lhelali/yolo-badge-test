@@ -1,3 +1,1 @@
-Testing out GitHub badges!
-
-Adding a brand new line for the YOLO badge
+This is an explicit change on the badge-hunt branch.
