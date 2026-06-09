@@ -1,2 +1,1 @@
-# yolo-badge-test
-CRITICAL
+Testing out GitHub badges!
